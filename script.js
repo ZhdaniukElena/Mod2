@@ -24,8 +24,3 @@ switch (questionary) {
   case null: res = ''; break;
   default: res = alert( 'Данное число не соответствует никакому курорту' );
 }
-
-
-function myFunc() {
-
-}
